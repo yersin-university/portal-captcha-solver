@@ -151,7 +151,7 @@ Việc tự động hóa những tác vụ lặp đi lặp lại nhàm chán nh�
 ---
 
 ## Liên hệ
-- Blog: [levanson065@gmail.com](mailto:levanson065@gmail.com)
+- Email: [levanson065@gmail.com](mailto:levanson065@gmail.com)
 
 - GitHub: [@kamedev02](https://github.com/kamedev02)
 
