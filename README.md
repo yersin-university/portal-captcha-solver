@@ -103,14 +103,11 @@ Link cài đặt: [https://www.tampermonkey.net](https://www.tampermonkey.net)
         const base64Image = imageToBase64();
         if (!base64Image) return;
 
-        console.log(base64Image);
-
         try {
             const solution = await sendCaptchaToProxy(base64Image);
 
             const input = document.querySelector("#CaptchaInputText");
             if (input) {
-                input
                 input.value = solution;
             } else {
                 console.warn('Captcha input not found');
